@@ -7,6 +7,7 @@ Model Evaluation
 
 - AIC_BIC Feature Selection (Python)
 - LASSO_RIDGE_LOOCV_Cross Validation (Python)
+- LASSO Regression Player Rating and Potential Model (Python) 
 
 Databases
 - Monopolee Assessment : Modelled the Monopoly game on SQL (MySQL)
